@@ -1,0 +1,3 @@
+[submodule "Project-EZNet/Assets/Project/Code/EZNet"]
+	path = Project-EZNet/Assets/Project/Code/EZNet
+	url = https://github.com/oohicksyoo/RPG-EZNet.git
